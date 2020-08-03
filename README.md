@@ -1,5 +1,8 @@
 # git-tutorial
 
+# git clone [LINK]
+Creates local copy of repo
+
 # git status
 Shows the status of local repo
 
