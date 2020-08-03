@@ -20,3 +20,8 @@ Creates a branch...good for testing
 
 # git checkout [BRANCH-NAME]
 Change to a branch
+
+# git merge [BRANCH-NAME]
+First go to branch where you want to import changes. Then run get 
+git merge [BRANCH-NAME] which brings changes from [BRANCH-NAME] to 
+current branch
